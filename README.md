@@ -18,7 +18,6 @@ The codebase is highly modularized, containing several advanced mechanics built 
 
 ## 🎮 Controls
 
-The game features standard arcade controls, plus hidden developer keys used for testing game balance:
 
 | Action              | Keyboard                            | Controller      |
 | :------------------ | :---------------------------------- | :-------------- |
@@ -27,47 +26,3 @@ The game features standard arcade controls, plus hidden developer keys used for 
 | **Menu Navigation** | `Up` / `Down` and `Enter` / `Space` | `D-Pad` and `A` |
 | **Pause / Back**    | `ESC`                               | `Start` / `B`   |
 
----
-
-## 🛠 Tech Stack
-
-- **Language:** Python 3
-- **Graphics & Audio Library:** Pygame 2.5.2
-- **Architecture Pattern:** Object-Oriented Programming (OOP) / State Pattern
-
----
-
-## ⚙️ Installation & Run
-
-1. **Clone the repository:**
-
-   ```console
-   git clone https://github.com/g-brrzzn/shootemup-Pygame
-   cd shootemup-Pygame
-
-   ```
-
-1. **Install the requirements:**
-
-   Shell
-
-   ```
-   python -m pip install -r requirements.txt
-
-   ```
-
-1. **Launch the game:**
-
-   Shell
-
-   ```
-   python Game.py
-
-   ```
-
----
-
-## 🤝 Contributing (Beginner Friendly)
-
-This project is highly modular, making it very easy to add new features without breaking everything else.
-Feel free to fork the project, experiment, and submit a Pull Request. I will be happy to review it, help with the code, and merge your ideas into the main game!
